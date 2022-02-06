@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"Color Highlighter",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"CSS Format",
+		"CSS3",
+		"DocBlockr",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"JSCS-Formatter",
+		"Log Highlight",
+		"Markdown Extended",
+		"MarkdownLivePreview",
+		"Material Theme",
+		"Nord",
+		"Package Control",
+		"PHPIntel",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-jscs",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"WordPress"
+	],
+}

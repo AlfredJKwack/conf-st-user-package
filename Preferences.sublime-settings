@@ -1,0 +1,13 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage",
+	],
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"font_face": "IBM plex Mono",
+	"font_size": 12,
+}
