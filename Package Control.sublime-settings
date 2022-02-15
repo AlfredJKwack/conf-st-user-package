@@ -21,6 +21,7 @@
 		"MarkdownLivePreview",
 		"Material Theme",
 		"Nord",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"PHPIntel",
 		"Sass",
@@ -33,6 +34,8 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
-		"WordPress"
+		"Terminus",
+		"Theme - Cobalt2",
+		"WordPress",
 	],
 }
